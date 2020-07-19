@@ -1,4 +1,4 @@
-# Amazon SageMaker Examples
+# Machine Learning Projects and Examples
 
 ### Introduction to Applying Machine Learning
 
